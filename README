@@ -1,0 +1,7 @@
+My hopes is to create a STL to ladder converter in particular Controllogix plc. My initial thoughts are to paste in STL text and it will parse the equivalent ladder logic in neutral format.
+
+As this project will be an ongoing one and I am working on it in my spare time, I welcome all contributors.
+
+My first task will be to create a sample list of inputs and outputs to get an idea of how to proceed.
+
+At this point I am unsure of the language, but I am leaning towards Python because of its availability.
