@@ -1,4 +1,4 @@
-# A
+# A (And)
 
 STL
 
@@ -30,5 +30,23 @@ Ladder
 
 -------------------------
 
- 
+#  AN (And Not)
+
+
+
+
+
+# O (Or)
+
+
+
+
+
+# ON (Or Not)
+
+
+
+
+
+# X (Exclusive Or)
 
